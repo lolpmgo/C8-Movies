@@ -68,7 +68,7 @@ public class MovieListAL
      */
     public ArrayList<Movie> findHighestRatedByStudio()
     {
-        ArrayList<Movie> highestRated = new ArrayList<Movie>();
+        //ArrayList<Movie> highestRated = new ArrayList<Movie>();
         
         // Your code goes here
         
